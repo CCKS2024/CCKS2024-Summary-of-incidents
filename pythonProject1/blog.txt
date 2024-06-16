@@ -1,0 +1,1 @@
+这段代码首先使用PlaintextParser从名为"blog.txt"的文本文件创建了一个解析器，然后使用Tokenizer指定了英文文本的分词器。接下来，我们使用LexRankSummarizer作为关键词提取器，并设置要提取的关键词数量为5。最后，我们打印出提取到的关键词。
