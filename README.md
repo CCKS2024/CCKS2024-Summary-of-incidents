@@ -1,4 +1,4 @@
-# CCKS2024-
-CCKS2024——面向篇章级文本的突发事件摘要生成任务评测
-
-这是一个代码厂库
+#模型太大，放入到百度网盘中，如下：
+bart-large-cnn模型：
+链接：https://pan.baidu.com/s/1-8V3q5xq076rS5ptXApHUw?pwd=2cri 
+提取码：2cri 
